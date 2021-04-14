@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svdfsdev)](https://github.com/anuraghazra/github-readme-stats)
-<img width="350em" height="200em" align="left" alt="Vlad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=svdfsdev&show_icons=true?count_private=true&theme=tokyonight">
+<img width="450em" height="200em" align="left" alt="Vlad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=svdfsdev&show_icons=true?count_private=true&theme=tokyonight">
 
 ![Codewars](https://www.codewars.com/users/svdfsdev/badges/large)
 <!--
